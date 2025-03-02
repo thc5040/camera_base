@@ -12,10 +12,12 @@ open_camera documentation
 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: 目录
 
-   图像工具软件/图像工具软件.md
+   工具软件/工具软件
+   图像格式/图像格式概述
+   图像格式/jpeg图像详解/jpeg图像详解
 
 
 
